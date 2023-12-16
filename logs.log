@@ -1,0 +1,1076 @@
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autoleave"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"info","message":"info: Slash Command Loaded: clean"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: guildleave"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopq"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: ping"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: reload"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: save"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: stop"}
+{"level":"info","message":"info: Slash Command Loaded: summon"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"info","message":"info: Successfully Logged in as esc music#3132"}
+{"level":"info","message":"info: Node: Main | Lavalink node is connected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: Unexpected op \"ready\" with data: [object Object]."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"info","message":"info: Node: Main | Lavalink node is connected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: Unexpected op \"ready\" with data: [object Object]."}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | A wild player has been created in escape"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mXXXTENTACION - Ex Bitch (Audio)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mDrake - IDGAF (Audio) ft. Yeat\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mBruno Mars - When I Was Your Man (Official Music Video)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Successfully stopped the player"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | A wild player has been destroyed in escape"}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autoleave"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"info","message":"info: Slash Command Loaded: clean"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: guildleave"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopq"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: ping"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: reload"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: save"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: stop"}
+{"level":"info","message":"info: Slash Command Loaded: summon"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as esc music#3132"}
+{"level":"info","message":"info: Node: Main | Lavalink node is connected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: Unexpected op \"ready\" with data: [object Object]."}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | A wild player has been created in escape"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mBruno Mars - When I Was Your Man (Official Music Video)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mBruno Mars - That’s What I Like [Official Music Video]\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mBruno Mars - Just The Way You Are (Official Music Video)\u001b[39m]"}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autoleave"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"info","message":"info: Slash Command Loaded: clean"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: guildleave"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopq"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: ping"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: reload"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: save"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: stop"}
+{"level":"info","message":"info: Slash Command Loaded: summon"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"info","message":"info: Successfully Logged in as esc music#3132"}
+{"level":"info","message":"info: Node: Main | Lavalink node is connected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: Unexpected op \"ready\" with data: [object Object]."}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | A wild player has been created in escape"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mBruno Mars - When I Was Your Man (Official Music Video)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | A wild player has been destroyed in escape"}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autoleave"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"info","message":"info: Slash Command Loaded: clean"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: guildleave"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopq"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: ping"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: reload"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: save"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: stop"}
+{"level":"info","message":"info: Slash Command Loaded: summon"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as esc music#3132"}
+{"level":"info","message":"info: Node: Main | Lavalink node is connected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: Unexpected op \"ready\" with data: [object Object]."}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | A wild player has been created in escape"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mBruno Mars - When I Was Your Man (Official Music Video)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mBruno Mars - That’s What I Like [Official Music Video]\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mBruno Mars - Just The Way You Are (Official Music Video)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mBruno Mars - It Will Rain (Official Music Video)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mBruno Mars - Locked Out Of Heaven (Official Music Video)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | A wild player has been created in plintir"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mDrake - IDGAF (Audio) ft. Yeat\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mBruno Mars - Versace on the Floor (Official Music Video)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mXXXTENTACION - Everybody Dies In Their Nightmares (Audio)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mBruno Mars - Talking To The Moon (Official Lyric Video)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mThe Weeknd - The Hills\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mLeave the door open\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mLow Life\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mBruno Mars - Treasure (Official Music Video)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mHope\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mMark Ronson - Uptown Funk (Official Video) ft. Bruno Mars\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mTravis Scott - I KNOW ? (Official Audio)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mXXXTENTACION - Look At Me! (Audio)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mBruno Mars - The Lazy Song (Official Music Video)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mLil Peep - Star Shopping (Lyrics)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mBruno Mars - 24K Magic (Official Music Video)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mXXXTENTACION - YuNg BrAtZ (Audio)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mLove Sosa\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mB.o.B - Nothin' On You (feat. Bruno Mars) [Official Video]\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mPost Malone, Swae Lee - Sunflower (Lyrics)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mB.o.B - Nothin’ On You ft. Bruno Mars (Lời Bài Hát)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mbad vibes forever\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mPure Cocaine\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | A wild player has been destroyed in plintir"}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"info","message":"info: Node: Main | Lavalink node is connected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: Unexpected op \"ready\" with data: [object Object]."}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | A wild player has been destroyed in escape"}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autoleave"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"info","message":"info: Slash Command Loaded: clean"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: guildleave"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopq"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: ping"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: reload"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: save"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: stop"}
+{"level":"info","message":"info: Slash Command Loaded: summon"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as esc music#3132"}
+{"level":"info","message":"info: Node: Main | Lavalink node is connected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: Unexpected op \"ready\" with data: [object Object]."}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | A wild player has been created in escape"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mBruno Mars - When I Was Your Man (Official Music Video)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | A wild player has been created in plintir"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mXXXTENTACION - Everybody Dies In Their Nightmares (Audio)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mThe Weeknd - The Hills\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mBruno Mars - That’s What I Like [Official Music Video]\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | A wild player has been destroyed in plintir"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mBruno Mars - Just The Way You Are (Official Music Video)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mBruno Mars - It Will Rain (Official Music Video)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mBruno Mars - Locked Out Of Heaven (Official Music Video)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mBruno Mars - Versace on the Floor (Official Music Video)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mBruno Mars - Talking To The Moon (Official Lyric Video)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mLeave the door open\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mBruno Mars - Treasure (Official Music Video)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mMark Ronson - Uptown Funk (Official Video) ft. Bruno Mars\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mBruno Mars - The Lazy Song (Official Music Video)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mBruno Mars - 24K Magic (Official Music Video)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mNothing on You\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mB.o.B - Nothin’ On You ft. Bruno Mars (Lời Bài Hát)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mBruno Mars - Marry You (Official Lyric Video)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mBillionaire (feat. Bruno Mars)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mWake Up in the Sky\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | A wild player has been destroyed in escape"}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"info","message":"info: Node: Main | Lavalink node is connected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: Unexpected op \"ready\" with data: [object Object]."}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autoleave"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"info","message":"info: Slash Command Loaded: clean"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: guildleave"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopq"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: ping"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: reload"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: save"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: stop"}
+{"level":"info","message":"info: Slash Command Loaded: summon"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as esc music#3132"}
+{"level":"info","message":"info: Node: Main | Lavalink node is connected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: Unexpected op \"ready\" with data: [object Object]."}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | A wild player has been created in escape"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mXXXTENTACION - MOONLIGHT (OFFICIAL MUSIC VIDEO)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mGunna - fukumean [Official Visualizer]\u001b[39m]"}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autoleave"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"info","message":"info: Slash Command Loaded: clean"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: guildleave"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopq"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: ping"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: reload"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: save"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: stop"}
+{"level":"info","message":"info: Slash Command Loaded: summon"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as esc music#3132"}
+{"level":"info","message":"info: Node: Main | Lavalink node is connected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: Unexpected op \"ready\" with data: [object Object]."}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autoleave"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"info","message":"info: Slash Command Loaded: clean"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: guildleave"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopq"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: ping"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: reload"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: save"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: stop"}
+{"level":"info","message":"info: Slash Command Loaded: summon"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as esc music#3132"}
+{"level":"info","message":"info: Node: Main | Lavalink node is connected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: Unexpected op \"ready\" with data: [object Object]."}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as esc music#3132"}
+{"level":"info","message":"info: Node: Main | Lavalink node is connected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: Unexpected op \"ready\" with data: [object Object]."}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autoleave"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"info","message":"info: Slash Command Loaded: clean"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: guildleave"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopq"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: ping"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: reload"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: save"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: stop"}
+{"level":"info","message":"info: Slash Command Loaded: summon"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as esc music#3132"}
+{"level":"info","message":"info: Node: Main | Lavalink node is connected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: Unexpected op \"ready\" with data: [object Object]."}
+{"level":"warn","message":"warn: Player: 948930686620930088 | A wild player has been created in plintir"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mXXXTENTACION - MOONLIGHT (OFFICIAL MUSIC VIDEO)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mGunna - fukumean [Official Visualizer]\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mMockingbird\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mXXXTENTACION - Fuck Love (Audio) (feat. Trippie Redd)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mKanye West - Heartless\u001b[39m]"}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autoleave"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"info","message":"info: Slash Command Loaded: clean"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: guildleave"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopq"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: ping"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: reload"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: save"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: stop"}
+{"level":"info","message":"info: Slash Command Loaded: summon"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as esc music#3132"}
+{"level":"info","message":"info: Node: Main | Lavalink node is connected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: Unexpected op \"ready\" with data: [object Object]."}
+{"level":"warn","message":"warn: Player: 948930686620930088 | A wild player has been created in plintir"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mXXXTENTACION - MOONLIGHT (OFFICIAL MUSIC VIDEO)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mGunna - fukumean [Official Visualizer]\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mMockingbird\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mXXXTENTACION - Fuck Love (Audio) (feat. Trippie Redd)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track had an error: undefined."}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mKanye West - Heartless\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mXXXTENTACION - Look At Me! (Audio)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mThe Weeknd - The Hills\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mLil Peep & XXXTENTACION - Falling Down (Lyrics)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mLOVE ft. Zacari - Kendrick Lamar (DAMN)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mLil Baby x Gunna - Drip Too Hard (Official Audio)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mXXXTENTACION & YE - True Love (Official Audio)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mSuperman\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mXXXTENTACION - SAD!\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mTyler, The Creator - See You Again ft. Kali Uchis (Lyrics)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mXXXTENTACION - Everybody Dies In Their Nightmares (Audio)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mLil Baby - Freestyle (Too Hard)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mXXXTENTACION - YuNg BrAtZ (Audio)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mMetro Boomin, Future, Chris Brown - Superhero (Heroes & Villains) (Visualizer)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mbad vibes forever\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mKendrick Lamar - HUMBLE.\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mXXXTENTACION - BAD! (Official Music Video)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mSleepy Hallow - 2055 (Official Video)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mXXXTENTACION, Lil Wayne, Ty Dolla $ign - Scared of the Dark (Lyrics)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mPure Cocaine\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mHope\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mFuture - Solo (Official Audio)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mXXXTENTACION - Revenge (Audio)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mFather Stretch My Hands Pt. 1\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mTake A Step Back\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mPost Malone - Better Now\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mArms Around You (feat. Maluma & Swae Lee)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mDon Toliver - No Idea [Official Music Video]\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mXXXTENTACION - I Don't Wanna Do This Anymore (Audio)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mChief Keef - Love Sosa [Finally Rich (Deluxe Edition)] [HQ]\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mRoll in Peace (feat. XXXTENTACION)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mHex\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34minfinity (888)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mPost Malone, Swae Lee - Sunflower (Lyrics)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mXXXTENTACION - Jocelyn Flores (Audio)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34m$UICIDEBOY$ - ANTARCTICA (Lyric Video)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mRiot\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mRoddy Ricch - The Box [Official Music Video]\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mXXXTENTACION - whoa (mind in awe) (Audio)\u001b[39m]"}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autoleave"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"info","message":"info: Slash Command Loaded: clean"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: guildleave"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopq"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: ping"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: reload"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: save"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: stop"}
+{"level":"info","message":"info: Slash Command Loaded: summon"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as esc music#3132"}
+{"level":"info","message":"info: Node: Main | Lavalink node is connected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: Unexpected op \"ready\" with data: [object Object]."}
+{"level":"warn","message":"warn: Player: 948930686620930088 | A wild player has been created in plintir"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mXXXTENTACION - Fuck Love (Audio) (feat. Trippie Redd)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mFather Stretch My Hands Pt. 1\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mTyler, The Creator - See You Again ft. Kali Uchis (Lyrics)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mXXXTENTACION - Look At Me! (Audio)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mAll Girls Are The Same\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mLil Peep & XXXTENTACION - Falling Down (Lyrics)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mMockingbird\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mXXXTENTACION - MOONLIGHT (OFFICIAL MUSIC VIDEO)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mKanye West - Heartless\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mKendrick Lamar - HUMBLE.\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mXXXTENTACION - RIP Roach (Audio) (feat. $ki Mask The Slump God)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mLil Peep - Star Shopping (Lyrics)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mXXXTENTACION - Revenge (Audio)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mPlayboi Carti - Sky [Official Video]\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mXXXTENTACION & YE - True Love (Official Audio)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mLil Baby - Freestyle (Too Hard)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mNoah Cyrus & XXXTENTACION - Again (Lyrics)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mGunna - fukumean [Official Visualizer]\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mXXXTENTACION - SAD!\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mSLOW DANCING IN THE DARK\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 948930686620930088 | Track has been started playing [\u001b[34mXXXTENTACION - Ex Bitch (Audio)\u001b[39m]"}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autoleave"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"info","message":"info: Slash Command Loaded: clean"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: guildleave"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopq"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: ping"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: reload"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: save"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: stop"}
+{"level":"info","message":"info: Slash Command Loaded: summon"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as esc music#3132"}
+{"level":"info","message":"info: Node: Main | Lavalink node is connected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: Unexpected op \"ready\" with data: [object Object]."}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | A wild player has been created in escape"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mXXXTENTACION - Fuck Love (Audio) (feat. Trippie Redd)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mFather Stretch My Hands Pt. 1\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mTyler, The Creator - See You Again ft. Kali Uchis (Lyrics)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mXXXTENTACION - Look At Me! (Audio)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mAll Girls Are The Same\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mLil Peep & XXXTENTACION - Falling Down (Lyrics)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mMockingbird\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mXXXTENTACION - MOONLIGHT (OFFICIAL MUSIC VIDEO)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mKanye West - Heartless\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mKendrick Lamar - HUMBLE.\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mXXXTENTACION - RIP Roach (Audio) (feat. $ki Mask The Slump God)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mlil peep - star shopping (prod. kryptik)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mXXXTENTACION - Revenge (Audio)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mPlayboi Carti - Sky [Official Video]\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mXXXTENTACION & YE - True Love (Official Audio)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mLil Baby - Freestyle (Too Hard)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mNoah Cyrus & XXXTENTACION - Again (Lyrics)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mGunna - fukumean [Official Visualizer]\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mXXXTENTACION - SAD!\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mSLOW DANCING IN THE DARK\u001b[39m]"}
+{"level":"warn","message":"warn: Track has an error: undefined"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mXXXTENTACION - Ex Bitch (Audio)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mFuture - Mask Off (Official Music Video)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mXXXTENTACION - I Don't Wanna Do This Anymore (Audio)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mMetro Boomin, Future, Chris Brown - Superhero (Heroes & Villains) (Visualizer)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mXXXTENTACION - Jocelyn Flores (Audio)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 1182545794486775828 | Track has been started playing [\u001b[34mPOP SMOKE - DIOR (OFFICIAL VIDEO)\u001b[39m]"}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: connect ETIMEDOUT 154.29.72.71:2269."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: connect ETIMEDOUT 154.29.72.71:2269."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: connect ETIMEDOUT 154.29.72.71:2269."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: connect ETIMEDOUT 154.29.72.71:2269."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: connect ECONNABORTED 154.29.72.71:2269."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: getaddrinfo ENOTFOUND n1.ll.darrennathanael.com."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"info","message":"info: Node: Main | Lavalink node is connected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: Unexpected op \"ready\" with data: [object Object]."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node is reconnecting."}
+{"level":"info","message":"info: Node: Main | Lavalink node is connected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: Unexpected op \"ready\" with data: [object Object]."}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autoleave"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"info","message":"info: Slash Command Loaded: clean"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: guildleave"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopq"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: ping"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: reload"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: save"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: stop"}
+{"level":"info","message":"info: Slash Command Loaded: summon"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as esc music#3132"}
+{"level":"info","message":"info: Node: Main | Lavalink node is connected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: Unexpected op \"ready\" with data: [object Object]."}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autoleave"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"info","message":"info: Slash Command Loaded: clean"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: guildleave"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopq"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: ping"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: reload"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: save"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: stop"}
+{"level":"info","message":"info: Slash Command Loaded: summon"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as esc music#3132"}
+{"level":"info","message":"info: Node: Main | Lavalink node is connected."}
+{"level":"warn","message":"warn: Node: Main | Lavalink node has an error: Unexpected op \"ready\" with data: [object Object]."}
+{"level":"warn","message":"warn: Player: 210537474064121858 | A wild player has been created in Virtual Riot 🔥"}
+{"level":"warn","message":"warn: Player: 210537474064121858 | Track has been started playing [\u001b[34mDrake - IDGAF (Audio) ft. Yeat\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 210537474064121858 | Track has been started playing [\u001b[34mOut thë way\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 210537474064121858 | Track has been started playing [\u001b[34mYeat - ''Money so big'' (Up 2 Me)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 210537474064121858 | Track has been started playing [\u001b[34mAlready Rich\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 210537474064121858 | Track has been started playing [\u001b[34mNun id change\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 210537474064121858 | Track has been started playing [\u001b[34mFlawlëss (feat. Lil Uzi Vert) [Official Audio]\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 210537474064121858 | Track has been started playing [\u001b[34mOn tha linë\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 210537474064121858 | Track has been started playing [\u001b[34mMy wrist (with Young Thug) [Official Audio]\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 210537474064121858 | Track has been started playing [\u001b[34mYeat - Sorry Bout That (Lyrics) Sorry Bout That Sorry Bout That\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 210537474064121858 | Track has been started playing [\u001b[34mTalk\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 210537474064121858 | Track has been started playing [\u001b[34mPoppin\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 210537474064121858 | Track has been started playing [\u001b[34mYEAT - Turban [Dir. by @DotComNirvan]\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 210537474064121858 | Track has been started playing [\u001b[34mbigger thën everything\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 210537474064121858 | Track has been started playing [\u001b[34mSplit\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 210537474064121858 | Track has been started playing [\u001b[34mYEAT - \"Mad bout that\" OFFICIAL VERSION\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 210537474064121858 | Track has been started playing [\u001b[34mGët Busy\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 210537474064121858 | Track has been started playing [\u001b[34mWhethan - LOCK IT UP (feat. Yeat, midwxst & Matt Ox) [Animated Video]\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 210537474064121858 | Track has been started playing [\u001b[34mSystëm\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 210537474064121858 | Track has been started playing [\u001b[34mOff Tha Lot\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 210537474064121858 | Track has been started playing [\u001b[34mDëserve it\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 210537474064121858 | Track has been started playing [\u001b[34mRackz got më\u001b[39m]"}
